@@ -1,7 +1,7 @@
 # Deep Learning Optimizers
 Giovanna Assunção Pereira Soares
 
-A repository to make available and organize the codes developed during the execution of a technical note on medium about Optimization in Deep Learning. These codes enable practical visualization of the theoretical concepts covered in the work, this is part of the coursework for the Machine Learning course by professor [Ivanovitch Medeiros](https://github.com/ivanovitchm).
+A repository to make available and organize the codes developed during the execution of a [technical note on Medium about Optimization in Deep Learning](https://medium.com/@giovanna.assuncao.705/otimização-no-deep-learning-5f451be97004). These codes enable practical visualization of the theoretical concepts covered in the work, this is part of the coursework for the Machine Learning course by professor [Ivanovitch Medeiros](https://github.com/ivanovitchm).
 
 The code in the .ipynb files can be found under 'files' in this repository or accessed directly through these Google Colab links:
 
